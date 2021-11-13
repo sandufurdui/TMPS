@@ -23,8 +23,8 @@ A design pattern provides a general reusable solution for the common problems th
 ## Screenshot:
 ![output screenshot](https://drive.google.com/file/d/1J-7XMeFkkQe4YHU43bxWL4eI2nwkX2uG/view?usp=sharing)
 
-`Pepperoni Pizza Contains {'cheese': 70, 'carbohydrates': 45, 'fats': 38, 'proteins': 8}`
-`Cheese Pizza Contains {'cheese': 30, 'carbohydrates': 59, 'fats': 29, 'proteins': 6.3}`
-`Spicy contains {'cheese': 0, 'carbohydrates': 65, 'fats': 28, 'proteins': 4.3}`
+`Pepperoni Pizza Contains {'cheese': 70, 'carbohydrates': 45, 'fats': 38, 'proteins': 8}`<br/>
+`Cheese Pizza Contains {'cheese': 30, 'carbohydrates': 59, 'fats': 29, 'proteins': 6.3}`<br/>
+`Spicy contains {'cheese': 0, 'carbohydrates': 65, 'fats': 28, 'proteins': 4.3}`<br/>
 
 #### Author: Alexandru Furdui

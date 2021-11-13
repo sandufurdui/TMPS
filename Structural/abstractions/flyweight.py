@@ -3,7 +3,7 @@ from typing import Dict
 
 from creational.pizzeria import pizzeria
 
-`
+
 class Flyweight:
     def __init__(self, shared_state: str) -> None:
         self._shared_state = shared_state
